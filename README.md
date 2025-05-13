@@ -1,19 +1,17 @@
-⏰ Tickly – Relógio Digital
+⏰ #Tickly – Relógio Digital
 Tickly é um relógio digital simples e responsivo, desenvolvido com HTML, CSS e JavaScript. Ele exibe a hora atual em tempo real, atualizando automaticamente os segundos, minutos e horas.
 
-🔗 Acesse o Projeto
+🔗 #Acesse o Projeto
 🌐 tickly.netlify.app
 
-📸 Captura de Tela
-
-🛠️ Tecnologias Utilizadas
+🛠️ #Tecnologias Utilizadas
 HTML5
 
 CSS3
 
 JavaScript (ES6)
 
-🚀 Como Executar Localmente
+🚀 #Como Executar Localmente
 Clone o repositório:
 
 bash
@@ -28,7 +26,7 @@ Editar
 cd Relogio-Digital
 Abra o arquivo index.html no seu navegador preferido.
 
-📁 Estrutura do Projeto
+📁 #Estrutura do Projeto
 pgsql
 Copiar
 Editar
@@ -39,6 +37,6 @@ Relogio-Digital/
 │   │   └── style.css
 │   └── js/
 │       └── script.js
-📄 Licença
+📄 #Licença
 Este projeto está licenciado sob a MIT License.
 
